@@ -1,0 +1,11 @@
+.twin-cointainer{
+    display: flex;
+}
+.product-cointainer{
+    width:70%;
+    margin-left:30px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+.card-cointainer{
+}
